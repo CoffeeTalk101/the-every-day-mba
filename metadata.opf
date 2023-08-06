@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7e3cb788-768c-4fef-9348-66c0874e15ed</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e3cb788-768c-4fef-9348-66c0874e15ed</dc:identifier>
+        <dc:title>The Every Day MBA (for pre sume)</dc:title>
+        <dc:creator opf:file-as="Dalton, Chris" opf:role="aut">Chris Dalton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-14T17:00:00+00:00</dc:date>
+        <dc:publisher>Pearson Education Limited</dc:publisher>
+        <dc:rights>© Chris Dalton 2015 (print and electronic)</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
